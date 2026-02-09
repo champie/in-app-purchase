@@ -16,7 +16,7 @@
     "xml-crypto": "^6.0.0"
   },
   "devDependencies": {
-    "eslint": "^9.0.0",
+    "eslint": "^10.0.0",
     "mocha": "^11.0.1"
   },
   "scripts": {
