@@ -1,5 +1,8 @@
 ## This is a fork of https://www.github.com/voltrue2/in-app-purchase
-The intent is to support newer versions of the billing APIs, e.g. Google now requires purchases to be acknowledged
+The intent is to support newer versions of the billing APIs, e.g. Google now requires purchases to be acknowledged. 
+This has been in maintainence mode for years now, if you want more modern support, check out [ugrkbt](https://github.com/ugrkbt) who has a
+[pull request](https://github.com/voltrue2/in-app-purchase/pull/380) on the original project, which seems abandoned.
+(I've not checked this, as with all open source code you should verify yourself there is no malicious code in it).
 
 ### Original unmodified README follows (removed broken demo link)
 
